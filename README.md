@@ -1,39 +1,42 @@
-# 🌍 Travel Yaatra  
-Your Next Unforgettable Journey Starts Here!
+# 🌍 **Travel Yaatra**
+### Your Next Unforgettable Journey
 
-Travel Yaatra is a modern and responsive travel exploration website built using **React + Vite + TypeScript + Tailwind CSS**. It highlights destinations, experiences, travel tips, and more through a clean UI and reusable components.
-
-### 🚀 Features
-- 🏙️ Explore popular destinations and cities
-- 🧭 Travel experiences & tips sections
-- 📩 Newsletter UI for subscription
-- ⚡ Fast performance using Vite
-- 🎨 Modern UI with Tailwind CSS
-- 📱 Fully responsive design
-- 🔧 CI/CD Auto Deployment using GitHub Actions
-
-### 🛠️ Tech Stack
-| Technology | Used For |
-|------------|----------|
-| React + TypeScript | Component-based UI |
-| Vite | Fast build & bundling |
-| Tailwind CSS | Styling & responsive design |
-| GitHub Actions | Auto deploy to GitHub Pages |
+A modern and responsive travel exploration website built using **React, Vite, TypeScript, and Tailwind CSS**. Explore destinations, discover experiences and view a clean UI designed for both mobile and desktop users. Deployed automatically using **GitHub Pages + CI/CD (GitHub Actions)**.
 
 ---
-Travel Yaatra is a modern and responsive travel exploration website built using React, Vite, TypeScript and Tailwind CSS. It showcases popular destinations, travel experiences and a clean newsletter UI with mobile-friendly design. The project uses reusable UI components, fast bundling with Vite, and automatic deployment using GitHub Pages with GitHub Actions CI/CD.
 
-🔧 How to run this project locally:
-1. Clone the repository  
-   👉 git clone https://github.com/vishnurdy1/travelyaatra.git
-2. Navigate into the project folder  
-   👉 cd travelyaatra
-3. Install the dependencies  
-   👉 npm install
-4. Start the development server  
-   👉 npm run dev
-5. Open in your browser  
-   👉 http://localhost:5173/
+## ✨ **Features**
+- 🏙️ Explore popular travel destinations
+- 🧭 Travel experience & insights section
+- 📱 Fully responsive modern UI
+- 🎨 Tailwind-based professional design
+- ⚡ Fast performance using Vite
+- 🚀 Automatic deployment using GitHub Actions
 
-🌐 Live Website: https://vishnurdy1.github.io/travelyaatra/
+---
 
+## 🛠️ **Tech Stack**
+| Technology | Purpose |
+|------------|---------|
+| React + TypeScript | UI & Components |
+| Vite | Fast bundling & development |
+| Tailwind CSS | Styling & Responsive Design |
+| GitHub Actions | Auto Deployment |
+| GitHub Pages | Live Hosting |
+
+---
+
+## 📥 **Run Locally**
+
+```bash
+# 1️⃣ Clone this repository
+git clone https://github.com/vishnurdy1/travelyaatra.git
+
+# 2️⃣ Navigate to the project
+cd travelyaatra
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Start the development server
+npm run dev
