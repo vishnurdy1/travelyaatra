@@ -1,20 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌍 Travel Yaatra  
+Your Next Unforgettable Journey Starts Here!
 
-# Run and deploy your AI Studio app
+Travel Yaatra is a modern and responsive travel exploration website built using **React + Vite + TypeScript + Tailwind CSS**. It highlights destinations, experiences, travel tips, and more through a clean UI and reusable components.
 
-This contains everything you need to run your app locally.
+### 🚀 Features
+- 🏙️ Explore popular destinations and cities
+- 🧭 Travel experiences & tips sections
+- 📩 Newsletter UI for subscription
+- ⚡ Fast performance using Vite
+- 🎨 Modern UI with Tailwind CSS
+- 📱 Fully responsive design
+- 🔧 CI/CD Auto Deployment using GitHub Actions
 
-View your app in AI Studio: https://ai.studio/apps/drive/1DcZ1JYoWzOP9EvXOyxi1esvv9rOBwymf
+### 🛠️ Tech Stack
+| Technology | Used For |
+|------------|----------|
+| React + TypeScript | Component-based UI |
+| Vite | Fast build & bundling |
+| Tailwind CSS | Styling & responsive design |
+| GitHub Actions | Auto deploy to GitHub Pages |
 
-## Run Locally
+---
+Travel Yaatra is a modern and responsive travel exploration website built using React, Vite, TypeScript and Tailwind CSS. It showcases popular destinations, travel experiences and a clean newsletter UI with mobile-friendly design. The project uses reusable UI components, fast bundling with Vite, and automatic deployment using GitHub Pages with GitHub Actions CI/CD.
 
-**Prerequisites:**  Node.js
+🔧 How to run this project locally:
+1. Clone the repository  
+   👉 git clone https://github.com/vishnurdy1/travelyaatra.git
+2. Navigate into the project folder  
+   👉 cd travelyaatra
+3. Install the dependencies  
+   👉 npm install
+4. Start the development server  
+   👉 npm run dev
+5. Open in your browser  
+   👉 http://localhost:5173/
 
+🌐 Live Website: https://vishnurdy1.github.io/travelyaatra/
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
