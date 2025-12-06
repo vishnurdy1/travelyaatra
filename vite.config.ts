@@ -6,8 +6,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
 
   return {
-    // 👇 VERY IMPORTANT FOR GITHUB PAGES
-    base: '/travelyaatra/',
+    base: '/travelyaatra/',   // 👈 THIS LINE MUST BE THERE
 
     server: {
       port: 3000,
